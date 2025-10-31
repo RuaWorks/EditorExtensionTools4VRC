@@ -1,0 +1,16 @@
+{
+    "name": "RuaWorks.EditorExtensionTools4VRC.Editor",
+    "rootNamespace": "RuaWorks.EditorExtensionTools",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
