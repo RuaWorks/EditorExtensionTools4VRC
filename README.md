@@ -1,3 +1,4 @@
+# 現在UPM対応中です。まだ使用できません。
 # EditorExtensionTools4VRC
 VRChatでアバター改変をするときに便利なエディタ拡張です。
 
