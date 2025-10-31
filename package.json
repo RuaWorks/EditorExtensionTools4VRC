@@ -1,8 +1,7 @@
 {
- "name": "com.ruaworks.editor-extension-tools",
- "version": "1.0.0",
- "displayName": "EditorExtentionTools4VRC",
- "description": "VRChatのアバター改変で便利なエディタ拡張です。アニメーションの合成、マテリアル比較、アセットのディープコピーなど",
- "unity": "2020.3",
- "dependencies": {}
+  "name": "com.ruaworks.editor-extension-tools",
+  "version": "0.1.0",
+  "displayName": "EditorExtentionTools4VRC",
+  "description": "VRChat\u306e\u30a2\u30d0\u30bf\u30fc\u6539\u5909\u3067\u4fbf\u5229\u306a\u30a8\u30c7\u30a3\u30bf\u62e1\u5f35\u3067\u3059\u3002\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u306e\u5408\u6210\u3001\u30de\u30c6\u30ea\u30a2\u30eb\u6bd4\u8f03\u3001\u30a2\u30bb\u30c3\u30c8\u306e\u30c7\u30a3\u30fc\u30d7\u30b3\u30d4\u30fc\u306a\u3069",
+  "unity": "2020.3"
 }
