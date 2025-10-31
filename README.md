@@ -1,0 +1,2 @@
+# EditorExtensionTools4VRC
+VRChatでアバター改変をするときに便利なエディタ拡張です。
